@@ -3,4 +3,4 @@
 	url = https://github.com/TiroLiroLD/kipao-flutter
 [submodule "java"]
 	path = java
-	url = https://github.com/TiroLiroLD/kipao-service
+	url = https://github.com/LucasFPO/projeto-kipao
